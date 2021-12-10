@@ -1,6 +1,6 @@
 package com.shyshkov.gameoflife.model;
 
-import util.GridReader;
+import com.shyshkov.gameoflife.util.GridReader;
 
 import java.io.IOException;
 import java.io.InputStream;

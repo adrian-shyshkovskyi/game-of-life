@@ -1,5 +1,5 @@
+import com.shyshkov.gameoflife.game.ConwayGame;
 import com.shyshkov.gameoflife.model.Grid;
-import game.ConwayGame;
 
 import java.io.File;
 import java.io.FileInputStream;

@@ -8,7 +8,7 @@ import org.powermock.api.mockito.PowerMockito;
 import org.powermock.core.classloader.annotations.PrepareForTest;
 import org.powermock.modules.junit4.PowerMockRunner;
 import org.testng.asserts.SoftAssert;
-import util.GridReader;
+import com.shyshkov.gameoflife.util.GridReader;
 
 import java.io.ByteArrayInputStream;
 import java.io.IOException;

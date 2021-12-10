@@ -1,4 +1,4 @@
-package util;
+package com.shyshkov.gameoflife.util;
 
 import com.shyshkov.gameoflife.model.Cell;
 import org.apache.commons.io.IOUtils;

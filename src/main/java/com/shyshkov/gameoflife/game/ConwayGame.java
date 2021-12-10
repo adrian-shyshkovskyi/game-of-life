@@ -1,4 +1,4 @@
-package game;
+package com.shyshkov.gameoflife.game;
 
 import com.shyshkov.gameoflife.model.Cell;
 import com.shyshkov.gameoflife.model.Grid;
