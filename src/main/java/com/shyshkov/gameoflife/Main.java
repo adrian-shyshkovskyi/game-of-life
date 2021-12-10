@@ -1,3 +1,5 @@
+package com.shyshkov.gameoflife;
+
 import com.shyshkov.gameoflife.game.ConwayGame;
 import com.shyshkov.gameoflife.model.Grid;
 
